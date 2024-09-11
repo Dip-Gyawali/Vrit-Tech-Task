@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Chair",
+        "category": "furniture",
+        "price": 30000,
+        "description": "Comfortable wooden chair with ergonomic design.",
+        "imageURL": "/imgs/chair.jpg",
+        "stock": 15
+      },
+      {
+        "id": 2,
+        "name": "Sofa",
+        "category": "furniture",
+        "price": 70000,
+        "description": "Luxury 3-seater leather sofa with plush cushions.",
+        "imageURL": "/imgs/sofaa.jpg",
+        "stock": 8
+      },
+      {
+        "id": 3,
+        "name": "LED TV",
+        "category": "electronics",
+        "price": 50000,
+        "description": "50-inch 4K Ultra HD LED TV with smart features.",
+        "imageURL": "/imgs/ledTv.jpg",
+        "stock": 20
+      },
+      {
+        "id": 4,
+        "name": "Refrigerator",
+        "category": "electronics",
+        "price": 40000,
+        "description": "Double-door refrigerator with inverter technology.",
+        "imageURL": "/imgs/refrigerator.png",
+        "stock": 12
+      },
+      {
+        "id": 5,
+        "name": "Laptop",
+        "category": "electronics",
+        "price": 60000,
+        "description": "14-inch laptop with 8GB RAM and 512GB SSD storage.",
+        "imageURL": "/imgs/laptop.jpg",
+        "stock": 30
+      },
+      {
+        "id": 6,
+        "name": "Smartphone",
+        "category": "electronics",
+        "price": 30000,
+        "description": "Latest model smartphone with 128GB storage and 6GB RAM.",
+        "imageURL": "/imgs/smartphone.jpeg",
+        "stock": 50
+      },
+      {
+        "id": 7,
+        "name": "Running Shoes",
+        "category": "sportswear",
+        "price": 5000,
+        "description": "Lightweight running shoes with breathable mesh.",
+        "imageURL": "/imgs/shoes.jpg",
+        "stock": 25
+      },
+      {
+        "id": 8,
+        "name": "Backpack",
+        "category": "accessories",
+        "price": 2000,
+        "description": "Durable backpack with multiple compartments for storage.",
+        "imageURL": "/imgs/bag.png",
+        "stock": 40
+      },
+      {
+        "id": 9,
+        "name": "Microwave Oven",
+        "category": "home Appliances",
+        "price": 10000,
+        "description": "Convection microwave oven with grill and bake options.",
+        "imageURL": "/imgs/oven.jpg",
+        "stock": 18
+      },
+      {
+        "id": 10,
+        "name": "Treadmill",
+        "category": "fitness",
+        "price": 35000,
+        "description": "Foldable electric treadmill with digital display and multiple workout modes.",
+        "imageURL": "/imgs/trademill.jpeg",
+        "stock": 10
+      },
+      {
+        "id": 11,
+        "name": "Air Conditioner",
+        "category": "home Appliances",
+        "price": 45000,
+        "description": "Split air conditioner with inverter technology and 1.5-ton capacity.",
+        "imageURL": "/imgs/aircondition.jpg",
+        "stock": 20
+      },
+      {
+        "id": 12,
+        "name": "Wrist Watch",
+        "category": "accessories",
+        "price": 8000,
+        "description": "Luxury wristwatch with a stainless steel band and waterproof design.",
+        "imageURL": "/imgs/watch.jpg",
+        "stock": 25
+      }
+]
